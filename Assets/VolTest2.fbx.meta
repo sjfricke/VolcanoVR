@@ -1,0 +1,196 @@
+fileFormatVersion: 2
+guid: 014e8eacecf85004ea3ba8068caacf33
+timeCreated: 1454516318
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: pCube1
+    100002: pSphere1
+    100004: VOLCANO
+    100006: volcano_02_subdiv_01:VOLCANO
+    100008: VOLCANO_displacement1
+    100010: VOLCANO_displacement1_MeshPart0
+    100012: VOLCANO_displacement1_MeshPart1
+    100014: VOLCANO_displacement1_MeshPart10
+    100016: VOLCANO_displacement1_MeshPart11
+    100018: VOLCANO_displacement1_MeshPart12
+    100020: VOLCANO_displacement1_MeshPart13
+    100022: VOLCANO_displacement1_MeshPart14
+    100024: VOLCANO_displacement1_MeshPart15
+    100026: VOLCANO_displacement1_MeshPart16
+    100028: VOLCANO_displacement1_MeshPart17
+    100030: VOLCANO_displacement1_MeshPart18
+    100032: VOLCANO_displacement1_MeshPart19
+    100034: VOLCANO_displacement1_MeshPart2
+    100036: VOLCANO_displacement1_MeshPart3
+    100038: VOLCANO_displacement1_MeshPart4
+    100040: VOLCANO_displacement1_MeshPart5
+    100042: VOLCANO_displacement1_MeshPart6
+    100044: VOLCANO_displacement1_MeshPart7
+    100046: VOLCANO_displacement1_MeshPart8
+    100048: VOLCANO_displacement1_MeshPart9
+    100050: //RootNode
+    400000: pCube1
+    400002: pSphere1
+    400004: VOLCANO
+    400006: volcano_02_subdiv_01:VOLCANO
+    400008: VOLCANO_displacement1
+    400010: VOLCANO_displacement1_MeshPart0
+    400012: VOLCANO_displacement1_MeshPart1
+    400014: VOLCANO_displacement1_MeshPart10
+    400016: VOLCANO_displacement1_MeshPart11
+    400018: VOLCANO_displacement1_MeshPart12
+    400020: VOLCANO_displacement1_MeshPart13
+    400022: VOLCANO_displacement1_MeshPart14
+    400024: VOLCANO_displacement1_MeshPart15
+    400026: VOLCANO_displacement1_MeshPart16
+    400028: VOLCANO_displacement1_MeshPart17
+    400030: VOLCANO_displacement1_MeshPart18
+    400032: VOLCANO_displacement1_MeshPart19
+    400034: VOLCANO_displacement1_MeshPart2
+    400036: VOLCANO_displacement1_MeshPart3
+    400038: VOLCANO_displacement1_MeshPart4
+    400040: VOLCANO_displacement1_MeshPart5
+    400042: VOLCANO_displacement1_MeshPart6
+    400044: VOLCANO_displacement1_MeshPart7
+    400046: VOLCANO_displacement1_MeshPart8
+    400048: VOLCANO_displacement1_MeshPart9
+    400050: //RootNode
+    2300000: pCube1
+    2300002: pSphere1
+    2300004: VOLCANO
+    2300006: volcano_02_subdiv_01:VOLCANO
+    2300008: VOLCANO_displacement1_MeshPart0
+    2300010: VOLCANO_displacement1_MeshPart1
+    2300012: VOLCANO_displacement1_MeshPart10
+    2300014: VOLCANO_displacement1_MeshPart11
+    2300016: VOLCANO_displacement1_MeshPart12
+    2300018: VOLCANO_displacement1_MeshPart13
+    2300020: VOLCANO_displacement1_MeshPart14
+    2300022: VOLCANO_displacement1_MeshPart15
+    2300024: VOLCANO_displacement1_MeshPart16
+    2300026: VOLCANO_displacement1_MeshPart17
+    2300028: VOLCANO_displacement1_MeshPart18
+    2300030: VOLCANO_displacement1_MeshPart19
+    2300032: VOLCANO_displacement1_MeshPart2
+    2300034: VOLCANO_displacement1_MeshPart3
+    2300036: VOLCANO_displacement1_MeshPart4
+    2300038: VOLCANO_displacement1_MeshPart5
+    2300040: VOLCANO_displacement1_MeshPart6
+    2300042: VOLCANO_displacement1_MeshPart7
+    2300044: VOLCANO_displacement1_MeshPart8
+    2300046: VOLCANO_displacement1_MeshPart9
+    3300000: pCube1
+    3300002: pSphere1
+    3300004: VOLCANO
+    3300006: volcano_02_subdiv_01:VOLCANO
+    3300008: VOLCANO_displacement1_MeshPart0
+    3300010: VOLCANO_displacement1_MeshPart1
+    3300012: VOLCANO_displacement1_MeshPart10
+    3300014: VOLCANO_displacement1_MeshPart11
+    3300016: VOLCANO_displacement1_MeshPart12
+    3300018: VOLCANO_displacement1_MeshPart13
+    3300020: VOLCANO_displacement1_MeshPart14
+    3300022: VOLCANO_displacement1_MeshPart15
+    3300024: VOLCANO_displacement1_MeshPart16
+    3300026: VOLCANO_displacement1_MeshPart17
+    3300028: VOLCANO_displacement1_MeshPart18
+    3300030: VOLCANO_displacement1_MeshPart19
+    3300032: VOLCANO_displacement1_MeshPart2
+    3300034: VOLCANO_displacement1_MeshPart3
+    3300036: VOLCANO_displacement1_MeshPart4
+    3300038: VOLCANO_displacement1_MeshPart5
+    3300040: VOLCANO_displacement1_MeshPart6
+    3300042: VOLCANO_displacement1_MeshPart7
+    3300044: VOLCANO_displacement1_MeshPart8
+    3300046: VOLCANO_displacement1_MeshPart9
+    4300000: volcano_02_subdiv_01:VOLCANO
+    4300002: VOLCANO
+    4300004: pSphere1
+    4300006: pCube1
+    4300008: VOLCANO_displacement1_MeshPart0
+    4300010: VOLCANO_displacement1_MeshPart1
+    4300012: VOLCANO_displacement1_MeshPart2
+    4300014: VOLCANO_displacement1_MeshPart3
+    4300016: VOLCANO_displacement1_MeshPart4
+    4300018: VOLCANO_displacement1_MeshPart5
+    4300020: VOLCANO_displacement1_MeshPart6
+    4300022: VOLCANO_displacement1_MeshPart7
+    4300024: VOLCANO_displacement1_MeshPart8
+    4300026: VOLCANO_displacement1_MeshPart9
+    4300028: VOLCANO_displacement1_MeshPart10
+    4300030: VOLCANO_displacement1_MeshPart11
+    4300032: VOLCANO_displacement1_MeshPart12
+    4300034: VOLCANO_displacement1_MeshPart13
+    4300036: VOLCANO_displacement1_MeshPart14
+    4300038: VOLCANO_displacement1_MeshPart15
+    4300040: VOLCANO_displacement1_MeshPart16
+    4300042: VOLCANO_displacement1_MeshPart17
+    4300044: VOLCANO_displacement1_MeshPart18
+    4300046: VOLCANO_displacement1_MeshPart19
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

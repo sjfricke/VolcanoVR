@@ -8,15 +8,26 @@ public class movement : MonoBehaviour
 
     double x, y, z;
     double x2, y2, z2;
+    CharacterController controller;
     // Use this for initialization
     void Start()
     {
+       controller = GetComponent<CharacterController>();
+    }
+    void OnCollisionEnter(Collision collision)
+    {
+        Debug.Log("test");
+    }
+    void OnCollisionStay(Collision collision)
+    {
+        Debug.Log("test2");
     }
 
     // Update is called once per frame
-    void Update()
+    void FixedUpdate()
     {
-
+            
+       
         if (Input.GetMouseButton(0))
         {
             x = Math.Abs(Cardboard.Controller.transform.eulerAngles.x % 360);
@@ -27,12 +38,12 @@ public class movement : MonoBehaviour
             y2 = Math.Sin(x * (Math.PI / 180.0)) * -1;
             z2 = ((Math.Cos(y * (Math.PI / 180.0))) * (Math.Cos(x * (Math.PI / 180.0))));
 
-           
 
+            float mult = 1;
 
-            Vector3 move = new Vector3((float)x2 / 2, (float)y2 / 2, (float)z2 / 2);
-
-            transform.position += move;
+            Vector3 move = new Vector3((float)x2 * mult , (float)y2 * mult, (float)z2 * mult );
+            controller.Move(move);
+            //transform.position += move;
         }
     }
 }
