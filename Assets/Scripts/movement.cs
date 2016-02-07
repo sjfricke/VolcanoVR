@@ -42,8 +42,8 @@ public class movement : MonoBehaviour
             float mult = 1;
 
             Vector3 move = new Vector3((float)x2 * mult , (float)y2 * mult, (float)z2 * mult );
-            controller.Move(move);
-            //transform.position += move;
+            //controller.Move(move);
+            transform.position += move;
         }
     }
 }
